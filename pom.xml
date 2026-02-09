@@ -9,4 +9,4 @@
   <packaging>jar</packaging>
   <name>jenki</name>
   <description>Simple Maven project for Jenkins pipeline</description>
-</project
+</project>
